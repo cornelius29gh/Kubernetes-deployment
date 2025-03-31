@@ -1,0 +1,3 @@
+following images have been created with build in docker and pushed to dockerhub
+
+cornelius29/tomcat-image:version1.0
