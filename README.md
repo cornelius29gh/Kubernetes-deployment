@@ -56,3 +56,4 @@ Visit http://34.171.113.69:8080 (Tomcat service) in your browser.
 
 This works until the GKE cornelius-webserver-cluster is running
 
+To test further scaling/monitoring/further optimizations/update rollouts or rollbacks
